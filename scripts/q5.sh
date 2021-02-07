@@ -102,7 +102,6 @@ elif [ $location == "2" ]; then
         #The director is entered.
 
       done
-
       cd $dir
 
     done
