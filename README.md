@@ -13,7 +13,7 @@ delete it, after asking the user. If the program  runs with a pathname as an arg
 find the oldest file under given pathname and delete it, after asking the user.
 
 - q4) Program takes a filename as an argument. It will change the
-numbers to text for each number in between 0-9, inclusive.
+numbers to text for each number in between 0-9 inclusive.
 
 - q5) Program takes a wildcard argument and a -R option. If it runs with no option, then it will find all the files whose name obeys the wildcard and copy them
 into a directory named copied. If it runs with -R option, it will work recursively.
