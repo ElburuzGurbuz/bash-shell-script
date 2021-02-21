@@ -6,7 +6,7 @@ will count the occurrence of each number and print histogram.
 
 - q2) Program will convert the input string into a ciphered one using given number.
 For each letter in the string, program will find another letter in the English alphabet
-advancing over the alphabet corresponding digit times.
+advancing over the alphabet corresponding digit times. 
 
 - q3) program will take an argument from user. If it runs with no argument, then it will find the oldest file under current working directory and
 delete it, after asking the user. If the program  runs with a pathname as an argument, it will
